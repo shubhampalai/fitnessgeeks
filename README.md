@@ -1,6 +1,6 @@
- # Platinum Jyms App
+ #Fitness Geeks App
  
- Platinum Jym Web Application is a Exercises Tutorial one stop solution to its users.
+ Fitness Geeks Web Application is a Exercises Tutorial one stop solution to its users.
  
 
  
